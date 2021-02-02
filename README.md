@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melanie</h1>
 <h3 align="center">Web Developer learning in progess....</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mewiemers&label=Profile%20views&color=0e75b6&style=flat" alt="mewiemers" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewiemers" alt="mewiemers" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewiemers&theme=dracula" alt="mewiemers" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
