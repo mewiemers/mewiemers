@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewiemers" alt="mewiemers" /></a> </p>
 
-- 🔨 I’m currently working on [Meet Albert](https://github.com/mewiemers/meet-albert)
+- 🔨 I’m currently working and learning F#
 
 - 📫 How to reach me **m.wiemers01@gmail.com**
 
