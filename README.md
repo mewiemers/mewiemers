@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melanie</h1>
-<h3 align="center">Web and Software (in the making) Developer</h3>
+<h3 align="center">Web and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mewiemers&label=Profile%20views&color=0e75b6&style=flat" alt="mewiemers" /> </p>
 
